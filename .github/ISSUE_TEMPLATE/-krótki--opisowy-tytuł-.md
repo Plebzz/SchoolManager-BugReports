@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: "[Krótki, opisowy tytuł]"
 about: Create a report to help us improve
 title: ''
 labels: ''
@@ -7,8 +7,6 @@ assignees: ''
 
 ---
 
-**Tytuł błędu:**
-[Krótki, opisowy tytuł]
 **Opis problemu:**
 [Szczegółowy opis tego, co się dzieje]
 **Kroki do reprodukcji:**
